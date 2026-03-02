@@ -52,7 +52,3 @@ html_theme_options = {
 uv run sphinx-build -b html docs/source public
 
 ```
-
----
-
-**Besoin que je génère le bloc YAML du Workflow GitHub pour accompagner ce mémo ?** 🚀🎤
