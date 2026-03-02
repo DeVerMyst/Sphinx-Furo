@@ -1,5 +1,3 @@
-Voici ton aide-mémoire ultra-succinct pour le tutoriel :
-
 ### 1. Installation des dépendances
 
 ```powershell
